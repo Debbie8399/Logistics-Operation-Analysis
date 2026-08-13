@@ -293,8 +293,6 @@ The full data model was built in Power BI Model view using a star schema pattern
   Key Insights & Business Recommendations
 ```
 
----
-
 ## 📁 Folder Structure
 
 ```
@@ -303,45 +301,10 @@ Logistics-Operations-Dashboard/
 ├── Data/
 │   ├── customers.csv
 │   ├── drivers.csv
-│   ├── trucks.csv
-│   ├── trailers.csv
-│   ├── routes.csv
-│   ├── facilities.csv
-│   ├── loads.csv
-│   ├── trips.csv
-│   ├── fuel_purchases.csv
-│   ├── maintenance_records.csv
-│   ├── delivery_events.csv
-│   ├── safety_incidents.csv
-│   ├── driver_monthly_metrics.csv
-│   └── truck_utilization_metrics.csv
+│   └── ...rest of files
 │
 ├── Dashboard/
 │   └── Logistics_Operations_Dashboard.pbix
-│
-├── SQL/
-│   └── validation_queries.sql
-│
-├── Images/
-│   ├── LOGIS.png                  ← Overview page
-│   ├── LOGIS2.png                 ← Drivers & Route Performance
-│   ├── LOGIS3.png                 ← Maintenance & Safety
-│   ├── LOGIS1.png                 ← Customers Analysis
-│   ├── model_view.png             ← Data model relationship diagram
-│   ├── dax_avg_mpg.png            ← AVG MPG measure
-│   ├── dax_total_miles.png        ← Total Miles Driven measure
-│   ├── dax_total_incidents.png    ← Total Incidents measure
-│   ├── dax_fuel_cost_per_lane.png ← Fuel Cost per Lane measure
-│   ├── dax_downtime.png           ← Total Downtime Hour measure
-│   ├── dax_maintenance_cost.png   ← Total Maintenance Cost measure
-│   ├── dax_total_loads.png        ← Total Load Delivered measure
-│   ├── dax_revenue_pct.png        ← Revenue % by Customer Type measure
-│   ├── dax_profit_margin.png      ← Profit Margin % measure
-│   ├── dax_profit_per_driver.png  ← Profit per Driver measure
-│   ├── dax_late_deliveries.png    ← Late Deliveries measure
-│   ├── dax_active_drivers.png     ← Active Drivers measure
-│   ├── dax_otd.png                ← On-time-delivery % measure
-│   └── dax_total_customers.png    ← Total Customers measure
 │
 └── README.md
 ```
