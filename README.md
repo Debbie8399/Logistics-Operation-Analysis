@@ -8,9 +8,9 @@
 
 ---
 
-## 📑 Table of Contents
+## 📋 Table of Contents
 
-- [Project Overview](#projectverview)
+- [Project Overview](#project-overview)
 - [Dashboard Pages](#dashboard-pages)
 - [Dataset Information](#dataset-information)
 - [Project Objectives](#project-objectives)
