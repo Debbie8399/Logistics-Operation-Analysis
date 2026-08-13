@@ -286,28 +286,66 @@ The full data model was built in Power BI Model view using a star schema pattern
   
   
   └── Build central Date table
+           
+            
+            
             │
             ▼
   Data Modelling (Star Schema)
+ 
+  
   ├── Define relationships (1-to-many)
+  
+  
   ├── Set filter directions (single)
+  
+  
   └── Connect Date table to all facts
+      
+            
+            
             │
             ▼
   DAX Measures
+  
+  
   ├── Revenue, Profit, Margin %
+  
+  
   ├── On-Time Delivery %
+  
+  
   ├── Late Deliveries count
+  
+  
   ├── Fleet Utilisation Rate
+  
+  
   ├── Preventable Incident Rate
+  
+  
   └── Cost per Mile
+           
+            
+            
             │
             ▼
-  4-Page Interactive Dashboard
+ 4-Page Interactive Dashboard
+  
+  
   ├── Page 1: Overview
+  
+  
   ├── Page 2: Drivers & Route Performance
+  
+  
   ├── Page 3: Maintenance & Safety
+  
+  
   └── Page 4: Customers Analysis
+           
+            
+            
             │
             ▼
   Key Insights & Business Recommendations
