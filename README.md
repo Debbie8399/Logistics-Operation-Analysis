@@ -49,19 +49,19 @@ To connect 14 tables of operational logistics data into a single Power BI model,
 
 ### Page 1 — Overview
 The executive summary page showing headline KPIs, top 10 customers by revenue, customer type revenue split, monthly incident trend, fleet utilization gauge, vehicle damage cost by incident type, average revenue per load, and a monthly financial summary table.
-![Overview Dashboard](images/LOGIS.png)
+![Overview Dashboard](LOGIS.png)
 
 ### Page 2 — Drivers & Route Performance
 Covers on-time delivery rate, late delivery count, active driver count, profit per driver, booking type split (Dedicated / Contract / Spot), total loads delivered by driver, driver experience vs incident rate, and route profit by lane.
-![Drivers & Route Performance](images/LOGIS2.png)
+![Drivers & Route Performance](LOGIS2.png)
 
 ### Page 3 — Maintenance & Safety
 Tracks total damage cost, preventable incident rate, total downtime hours, total maintenance cost, maintenance cost by type, incidents by home terminal, incident type breakdown, and monthly incident trend.
-![Maintenance & Safety](images/LOGIS3.png)
+![Maintenance & Safety](LOGIS3.png)
 
 ### Page 4 — Customers Analysis
 Analyses total customers, total loads delivered, total revenue, late deliveries by customer, load volume and revenue ranking by customer name, and monthly profit trend.
-![Customers Analysis](images/LOGIS1.png)
+![Customers Analysis](LOGIS1.png)
 
 ---
 
