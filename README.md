@@ -11,7 +11,7 @@
 ## 📋 Table of Contents
 
 - [Project Overview](https://github.com/Debbie8399/Logistics-Operation-Analysis/blob/main/README.md#-project-overview)
-- [Dashboard Pages](#dashboard-pages)
+- [Dashboard Pages](https://github.com/Debbie8399/Logistics-Operation-Analysis/blob/main/README.md#-dashboard-pages)
 - [Dataset Information](#dataset-information)
 - [Project Objectives](#project-objectives)
 - [Tools & Technologies](#tools--technologies)
