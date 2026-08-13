@@ -10,7 +10,7 @@
 
 ## 📋 Table of Contents
 
-- [Project Overview](#project-overview)
+- [Project Overview](https://github.com/Debbie8399/Logistics-Operation-Analysis/blob/main/README.md#-project-overview)
 - [Dashboard Pages](#dashboard-pages)
 - [Dataset Information](#dataset-information)
 - [Project Objectives](#project-objectives)
