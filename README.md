@@ -10,7 +10,7 @@
 
 ## 📑 Table of Contents
 
-- [Project Overview](#project-overview)
+- [Project Overview](#projectverview)
 - [Dashboard Pages](#dashboard-pages)
 - [Dataset Information](#dataset-information)
 - [Project Objectives](#project-objectives)
