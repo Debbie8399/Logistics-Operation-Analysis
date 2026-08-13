@@ -207,7 +207,7 @@ The full data model was built in Power BI Model view using a star schema pattern
 
 **Active Drivers**  
 
-![Active Drivers](dax_active_drivers.png.png)
+![Active Drivers](active_drivers.png.png)
 
 
 
