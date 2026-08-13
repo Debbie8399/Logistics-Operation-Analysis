@@ -128,7 +128,7 @@ All cleaning was performed in Power Query before the data entered the Power BI m
 The full data model was built in Power BI Model view using a star schema pattern. All 14 tables are connected through clearly defined one-to-many relationships with single-direction filtering.
 
 ### Relationship Diagram
-![Data Model & Relationships](images/model_view.png)
+![Data Model & Relationships](model_view.png)
 
 ---
 
@@ -136,46 +136,46 @@ The full data model was built in Power BI Model view using a star schema pattern
 
 ### Measure Screenshots
 **AVG MPG**  
-![AVG MPG](images/dax_avg_mpg.png)
+![AVG MPG](dax_avg_mpg.png)
 
 **Total Miles Driven**  
-![Total Miles Driven](images/dax_total_miles.png)
+![Total Miles Driven](dax_total_miles.png)
 
 **Total Incidents**  
-![Total Incidents](images/dax_total_incidents.png)
+![Total Incidents](dax_total_incidents.png)
 
 **Fuel Cost per Lane**  
-![Fuel Cost per Lane](images/dax_fuel_cost_per_lane.png)
+![Fuel Cost per Lane](dax_fuel_cost_per_lane.png)
 
 **Total Downtime Hour**  
-![Total Downtime Hour](images/dax_downtime.png)
+![Total Downtime Hour](dax_downtime.png)
 
 **Total Maintenance Cost**  
-![Total Maintenance Cost](images/dax_maintenance_cost.png)
+![Total Maintenance Cost](dax_maintenance_cost.png)
 
 **Total Load Delivered**  
-![Total Load Delivered](images/dax_total_loads.png)
+![Total Load Delivered](dax_total_loads.png)
 
 **Revenue % by Customer Type**  
-![Revenue % by Customer Type](images/dax_revenue_pct.png)
+![Revenue % by Customer Type](dax_revenue_pct.png)
 
 **Profit Margin %**  
-![Profit Margin %](images/dax_profit_margin.png)
+![Profit Margin %](dax_profit_margin.png)
 
 **Profit per Driver**  
-![Profit per Driver](images/dax_profit_per_driver.png)
+![Profit per Driver](dax_profit_per_driver.png)
 
 **Late Deliveries**  
-![Late Deliveries](images/dax_late_deliveries.png)
+![Late Deliveries](dax_late_deliveries.png)
 
 **Active Drivers**  
-![Active Drivers](images/dax_active_drivers.png)
+![Active Drivers](dax_active_drivers.png)
 
 **On-time-delivery %**  
-![On-time-delivery %](images/dax_otd.png)
+![On-time-delivery %](dax_otd.png)
 
 **Total Customers**  
-![Total Customers](images/dax_total_customers.png)
+![Total Customers](dax_total_customers.png)
 
 ### Full Measure Reference
 | Measure | Table | Format | Formula |
