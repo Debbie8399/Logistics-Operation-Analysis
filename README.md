@@ -138,7 +138,7 @@ The full data model was built in Power BI Model view using a star schema pattern
 ### Measure Screenshots
 
 
- ## Average MPG
+***Average MPG***
 
 ![AVG MPG](dax_avg_mpg.png.png)
 
