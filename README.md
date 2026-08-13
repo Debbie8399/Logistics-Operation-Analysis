@@ -8,7 +8,7 @@
 
 ---
 
-## 📋 Table of Contents
+## 📑 Table of Contents
 
 - [Project Overview](#project-overview)
 - [Dashboard Pages](#dashboard-pages)
