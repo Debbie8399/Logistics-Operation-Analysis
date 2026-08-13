@@ -253,9 +253,11 @@ The full data model was built in Power BI Model view using a star schema pattern
 6. Review Dedicated booking rates against current market conditions.
 
 ---
-
+```
 ## 🔄 Project Workflow
- Raw Source Tables (CSV / Excel)
+
+```
+14 Raw Source Tables (CSV / Excel)
             │
             ▼
   Data Cleaning in Power Query
@@ -288,10 +290,14 @@ The full data model was built in Power BI Model view using a star schema pattern
   └── Page 4: Customers Analysis
             │
             ▼
-  Key Insights & Business Recommendationsjavascript
+  Key Insights & Business Recommendations
+```
+
 ---
 
 ## 📁 Folder Structure
+
+```
 Logistics-Operations-Dashboard/
 │
 ├── Data/
@@ -336,8 +342,10 @@ Logistics-Operations-Dashboard/
 │   ├── dax_active_drivers.png     ← Active Drivers measure
 │   ├── dax_otd.png                ← On-time-delivery % measure
 │   └── dax_total_customers.png    ← Total Customers measure
-
-
+│
+└── README.md
+```
+```
 ---
 
 ## 🧠 Skills Demonstrated
