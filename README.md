@@ -14,7 +14,7 @@
 - [Dashboard Pages](https://github.com/Debbie8399/Logistics-Operation-Analysis/blob/main/README.md#-dashboard-pages)
 - [Dataset Information](https://github.com/Debbie8399/Logistics-Operation-Analysis/blob/main/README.md#-dataset-information)
 - [Project Objectives](https://github.com/Debbie8399/Logistics-Operation-Analysis/blob/main/README.md#-project-objectives)
-- [Tools & Technologies](#tools--technologies)
+- [Tools & Technologies](https://github.com/Debbie8399/Logistics-Operation-Analysis/blob/main/README.md#-tools--technologies)
 - [Data Cleaning & Preparation](#data-cleaning--preparation)
 - [Data Model & Relationships](#data-model--relationships)
 - [DAX Measures](#dax-measures)
