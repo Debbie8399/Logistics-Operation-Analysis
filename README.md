@@ -19,7 +19,7 @@
 - [Data Model & Relationships](https://github.com/Debbie8399/Logistics-Operation-Analysis/blob/main/README.md#-data-model--relationships)
 - [DAX Measures](https://github.com/Debbie8399/Logistics-Operation-Analysis/blob/main/README.md#-dax-measures)
 - [Key Metrics Summary](https://github.com/Debbie8399/Logistics-Operation-Analysis/blob/main/README.md#-key-metrics-summary)
-- [Key Insights](#key-insights)
+- [Key Insights](https://github.com/Debbie8399/Logistics-Operation-Analysis/blob/main/README.md#-key-insights)
 - [Business Recommendations](#business-recommendations)
 - [Project Workflow](#project-workflow)
 - [Folder Structure](#folder-structure)
