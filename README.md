@@ -258,13 +258,33 @@ The full data model was built in Power BI Model view using a star schema pattern
 
 ```
 14 Raw Source Tables (CSV / Excel)
+           
+            
+            
             │
             ▼
+  
+  
+  
   Data Cleaning in Power Query
+  
+  
+  
   ├── Remove duplicates
+  
+  
   ├── Fix data types
+ 
+  
+  
   ├── Standardise text columns
+  
+  
+  
   ├── Handle missing values
+ 
+  
+  
   └── Build central Date table
             │
             ▼
