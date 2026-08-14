@@ -26,7 +26,7 @@
 - [Skills Demonstrated](https://github.com/Debbie8399/Logistics-Operation-Analysis/blob/main/README.md#-skills-demonstrated)
 - [Results Summary](https://github.com/Debbie8399/Logistics-Operation-Analysis/blob/main/README.md#-results-summary)
 - [Future Improvements](https://github.com/Debbie8399/Logistics-Operation-Analysis/blob/main/README.md#-future-improvements)
-- [Conclusion](#conclusion)
+- [Conclusion](https://github.com/Debbie8399/Logistics-Operation-Analysis/blob/main/README.md#-conclusion)
 
 ---
 
