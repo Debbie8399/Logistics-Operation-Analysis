@@ -479,9 +479,7 @@ Logistics-Operations-Dashboard/
 
 │
 └── README.md
-```
-```
-```
+
 ---
 
 ## 🧠 Skills Demonstrated
@@ -499,7 +497,7 @@ Logistics-Operations-Dashboard/
 | **Business Analysis** | Recommendations grounded in specific data patterns |
 | **SQL Validation** | Cross-table joins used to verify model accuracy pre-visualisation |
 
----
+
 
 ## 📝 Results Summary
 
