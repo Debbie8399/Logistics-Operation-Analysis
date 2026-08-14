@@ -23,8 +23,8 @@
 - [Business Recommendations](https://github.com/Debbie8399/Logistics-Operation-Analysis/blob/main/README.md#-business-recommendations)
 - [Project Workflow](https://github.com/Debbie8399/Logistics-Operation-Analysis/blob/main/README.md#-project-workflow)
 - [Folder Structure](https://github.com/Debbie8399/Logistics-Operation-Analysis/blob/main/README.md#-folder-structure)
-- [Skills Demonstrated](#skills-demonstrated)
-- [Results Summary](#results-summary)
+- [Skills Demonstrated](https://github.com/Debbie8399/Logistics-Operation-Analysis/blob/main/README.md#-skills-demonstrated)
+- [Results Summary]()
 - [Future Improvements](#future-improvements)
 - [Conclusion](#conclusion)
 
