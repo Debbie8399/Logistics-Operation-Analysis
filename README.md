@@ -298,9 +298,8 @@ The full data model was built in Power BI Model view using a star schema pattern
 6. Review Dedicated booking rates against current market conditions.
 
 ---
-```
-## 🔄 Project Workflow
 
+## 🔄 Project workflow
 ```
 14 Raw Source Tables (CSV / Excel)
            
